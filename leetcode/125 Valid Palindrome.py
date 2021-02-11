@@ -4,15 +4,13 @@ str1 = input()
 def palindrome(input_str):
     input_list = []
     for i in input_str:
-        input_list.append(i)
+        if i.isalnum():
+            input_list.append(i.lower())
 
-    for i in range(len(input_list)):
-        if input_list[i] != input_list.pop():
-            print(input_list.pop())
-            print('false')
-            return
-    print('true')
-    return
+    while len(input_list) > 1:
+        if input_list.pop(0) != input_list.pop():
+            return False
+    return True
 
 
-palindrome(str1)
+print(palindrome(str1))
