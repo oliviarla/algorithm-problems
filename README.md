@@ -6,9 +6,10 @@
 
 ### 기초
 
-- 파이썬 알고리즘 인터뷰 책 읽고 leetcode 문제 풀어보기
+- 파이썬 알고리즘 인터뷰 책을 읽으면서 leetcode 문제를 풀어본다
 
 ### 입문
+
 - BOJ
 
 단계별로 풀어보면서 유형 익히기
@@ -23,9 +24,11 @@ https://www.acmicpc.net/step
 
 ### 문자열 조작
 
+string manipulation
+
 ### 배열
 
-
+array
 
 ### 정렬
 
