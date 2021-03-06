@@ -22,15 +22,48 @@ https://www.acmicpc.net/step
 
 ## 유형
 
-### 문자열 조작
+leetcode -> #n
 
-string manipulation
 
-### 배열
+### String Manipulation
 
-array
+[#125](./leetcode/125%20Valid%20Palindrome.py)
 
-### 정렬
+[#344](./leetcode/344%20Reverse%20String.py)
+
+[#819](./leetcode/819%20Most%20Common%20Word.py)
+
+[#937](./leetcode/937%20Reorder%20Log%20Files.py)
+
+[#49](./leetcode/49%20Group%20Anagrams.py)
+
+[#5](./leetcode/5%20Longest%20Palindrome%20Substring.py)
+
+### Array & Linked List
+
+[#1](./leetcode/1%20Two%20Sum.py)
+
+[#15](./leetcode/15%203Sum.py)
+
+[#238](./leetcode/238%20Product%20of%20Array%20Except%20Self.py)
+
+[#42](./leetcode/42%20Trapping%20Rain%20Water.py)
+
+[#15](./leetcode/15%203Sum.py)
+
+[#561](./leetcode/561%20Array%20Partition.py)
+
+[#121](./leetcode/121%20Best%20Time%20to%20Buy%20and%20Self%20Stock.py)
+
+[#234](./leetcode/234%20Palindrome%20Linked%20List.py)
+
+[#21](./leetcode/21%20Merge%20Two%20Sorted%20Lists.py)
+
+재귀 풀이법 분석
+
+![image](https://user-images.githubusercontent.com/56705221/110193539-d124f400-7e77-11eb-8a3a-7bd9b6bb6f97.png)
+
+### Stack & Queue
 
 ### 브루트포스(완전탐색)
 

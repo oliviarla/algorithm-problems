@@ -10,6 +10,7 @@ class Solution(object):
         :type l2: ListNode
         :rtype: ListNode
         """
+        # 재귀를 활용한 풀이법
 
         if not l1 or (l2 and l1.val > l2.val):
             l1, l2 = l2, l1
