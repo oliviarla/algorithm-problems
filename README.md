@@ -57,11 +57,13 @@ leetcode -> #n
 
 [#234](./leetcode/234%20Palindrome%20Linked%20List.py)
 
-[#21](./leetcode/21%20Merge%20Two%20Sorted%20Lists.py)
-
-재귀 풀이법 분석
+[#21](./leetcode/21%20Merge%20Two%20Sorted%20Lists.py) 재귀 풀이법 분석
 
 ![image](https://user-images.githubusercontent.com/56705221/110193539-d124f400-7e77-11eb-8a3a-7bd9b6bb6f97.png)
+
+[#206](./leetcode/206%20Reverse%20Linked%20List.py) 재귀 풀이법 분석
+
+![image](https://user-images.githubusercontent.com/56705221/110244852-0d557300-7fa4-11eb-8441-bf8580975d54.png)
 
 ### Stack & Queue
 
