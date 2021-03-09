@@ -10,10 +10,21 @@ class Solution(object):
         :rtype: ListNode
         """
 
+        # 재귀 풀이법
         def reverse(node, prev=None):
             if not node:
                 return prev
-            next, node.next = node.next, prev
-            return reverse(next, node)
+            nxt, node.next = node.next, prev
+            return reverse(nxt, node)
 
         return reverse(head)
+
+        # 반복 풀이법
+
+        node, prev = head, None
+
+        while node:
+            nxt, node.next = node.next, prev  # prev를 사용해서 역방향으로 노드를 붙여나감
+            prev, node = node, nxt
+
+        return prev
