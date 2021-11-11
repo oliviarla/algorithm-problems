@@ -5,5 +5,4 @@ for i in range(1, 1001):
         l.append(i)
         if len(l)>= 1000:
             break
-
 print(sum(l[a-1:b]))
