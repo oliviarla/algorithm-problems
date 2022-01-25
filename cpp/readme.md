@@ -2,14 +2,14 @@
 순서
 |폴더|개념|
 | :--: | :--: |
-|0x02|c++ 기본|
-|0x03|[배열](cpp/0x03 array) |
-|0x04|연결리스트|
-|0x05|스택|
-|0x06|큐|
-|0x07|덱|
-|0x08|스택의 활용|
-|0x09|BFS|
+|0x02|[c++ 기본](https://github.com/oliviarla/algorithm-problems/tree/master/cpp/0x02%20basic)|
+|0x03|[배열](https://github.com/oliviarla/algorithm-problems/tree/master/cpp/0x03%20array) |
+|0x04|[연결리스트](https://github.com/oliviarla/algorithm-problems/tree/master/cpp/0x04%20linked%20list)|
+|0x05|[스택](https://github.com/oliviarla/algorithm-problems/tree/master/cpp/0x05%20stack)|
+|0x06|[큐](https://github.com/oliviarla/algorithm-problems/tree/master/cpp/0x06%20queue)|
+|0x07|[덱](https://github.com/oliviarla/algorithm-problems/tree/master/cpp/0x07%20deque)|
+|0x08|[스택의 활용](https://github.com/oliviarla/algorithm-problems/tree/master/cpp/0x08%20advanced%20stack)|
+|0x09|[BFS](https://github.com/oliviarla/algorithm-problems/tree/master/cpp/0x09%20BFS)|
 |0x0A|DFS|
 |0x0B|재귀|
 |0x0C|백트래킹|
