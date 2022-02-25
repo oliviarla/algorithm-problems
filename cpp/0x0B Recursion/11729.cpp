@@ -13,7 +13,6 @@ void func(int a, int b, int n){
     cout<<a<<' '<<b<<'\n';
     // n-1개의 원판을 기둥 6-a-b -> 기둥 b로 옮김
     func(6-a-b, b, n-1);
-    
 }
 
 int main(void){
