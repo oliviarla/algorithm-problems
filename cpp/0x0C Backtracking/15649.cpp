@@ -6,6 +6,8 @@ int n, m;
 int arr[10];
 bool isused[10];
 
+//백트래킹 사용한 버전
+
 void func(int k){ //k개만큼의 수를 택했다는 뜻
     if(k==m){ // 최대값 m에 도달하면 함수 종료
         // arr 출력
