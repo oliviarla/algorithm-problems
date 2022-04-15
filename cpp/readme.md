@@ -10,12 +10,12 @@
 |0x07|[덱](https://github.com/oliviarla/algorithm-problems/tree/master/cpp/0x07%20deque)|
 |0x08|[스택의 활용](https://github.com/oliviarla/algorithm-problems/tree/master/cpp/0x08%20advanced%20stack)|
 |0x09|[BFS](https://github.com/oliviarla/algorithm-problems/tree/master/cpp/0x09%20BFS)|
-|0x0A|DFS|
-|0x0B|재귀|
-|0x0C|백트래킹|
-|0x0D|시뮬레이션|
-|0x0E|정렬 1|
-|0x0F|정렬 2|
+|0x0A|[DFS](/cpp/0x0A%20DFS/)|
+|0x0B|[재귀](/cpp/0x0B%20Recursion/)|
+|0x0C|[백트래킹](/cpp/0x0C%20Backtracking/)|
+|0x0D|[시뮬레이션](/cpp/0x0D%20Simulation/)|
+|0x0E|[정렬 1](/cpp/0x0E%20Sort/)|
+|0x0F|[정렬 2](/cpp/0x0E%20Sort/)|
 |0x10|다이나믹 프로그래밍|
 |0x11|그리디|
 |0x12|수학|
