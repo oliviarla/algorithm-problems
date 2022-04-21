@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "chrono": "cpp",
+        "__split_buffer": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "functional": "cpp",
+        "map": "cpp",
+        "unordered_map": "cpp",
+        "__node_handle": "cpp",
+        "array": "cpp",
+        "iterator": "cpp",
+        "string_view": "cpp",
+        "iostream": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "iosfwd": "cpp",
+        "istream": "cpp",
+        "stack": "cpp",
+        "utility": "cpp",
+        "algorithm": "cpp",
+        "queue": "cpp",
+        "ostream": "cpp",
+        "ios": "cpp"
+    }
+}

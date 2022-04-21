@@ -1,5 +1,4 @@
 */.idea
-leetcode/.idea
-.vscode/
-.git/
-.DS_Store/
+*/.vscode
+*/.git
+*/.DS_Store
