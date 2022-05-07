@@ -36,7 +36,7 @@ int main(void){
     //     if(idx_b==m) AB[i]=A[idx_a++]; //B 원소가 더이상 없으면 A원소 추가
     //     else if(idx_a==n) AB[i]=B[idx_b++]; //A 원소가 더이상 없으면 B원소 추가
     //     else if(A[idx_a]<=B[idx_b]) AB[i]=A[idx_a++]; //A원소 <= B원소 이면 A원소 추가 
-    //     else AB[i]=B[idx_b++]; //A원소 > B원소 이면 ㅠ원소 추가
+    //     else AB[i]=B[idx_b++]; //A원소 > B원소 이면 B원소 추가
     // }
 
     for(int i=0;i<n+m;i++){
